@@ -1,0 +1,16 @@
+# Site settings
+title: zila.app
+description: Ciberinteligencia
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: zila
+#user_description: ---
+user_title: Ciberinteligencia
+email: priscila.maldonado.m@gmail.com
+instagram: prizila.m
+linkedin: priscila-maldonado
+github: priscilita
+
+exclude: ['package.json', 'src' , 'node_modules']
